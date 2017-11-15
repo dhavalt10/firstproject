@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-        <title>Dhaval and Prajesh Learning Github</title>
+        <title>Dhaval  Learning Github</title>
 
 
         <!-- Fonts -->
