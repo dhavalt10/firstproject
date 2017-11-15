@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-        <title>Dhaval  Learning Github</title>
+        <title>Learning Github</title>
 
 
         <!-- Fonts -->
